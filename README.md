@@ -239,21 +239,5 @@ graph TB
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
 
-### Resources
-- **Documentation**: Comprehensive game guides
-- **Community**: Active player discussions
-- **Discord**: Real-time support channel
-- **GitHub Issues**: Bug reports and feature requests
-
-### Contact
-- **Developer**: Solo developer team
-- **Email**: Available through GitHub
-- **Discord**: Community server link
-
----
-
-**⚠️ Remember**: RiceRise is a strategy game. Always maintain energy and RT reserves to avoid being locked out of farming activities!
-
-*Built with ❤️ for the blockchain gaming community*
+*Built with ❤️ for the blockchain gaming community by chriswilder*
